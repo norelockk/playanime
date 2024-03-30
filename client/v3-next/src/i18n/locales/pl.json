@@ -1,0 +1,21 @@
+{
+  "PAGES": {
+    "ERROR_404": {
+      "HEADING": "404",
+      "CONTENT": "Mamy pewne wrażenie, że mogłeś się zgubić..."
+    }
+  },
+  "FOOTER": {
+    "COPYRIGHT": "Wszelkie prawa zastrzeżone / {found} - {now}",
+    "NOTICE": {
+      "TOP": "Serwis dostarcza informacji o anime i linki do legalnych platform udostępniających materiały wideo, których użytkownicy potwierdzili posiadanie praw autorskich.",
+      "BOTTOM": "Wszelkie roszczenia prawne należy składać bezpośrednio do tych platform."
+    }
+  },
+  "COMING_SOON": "Coming soon",
+  "PRIVACY_MESSAGE": {
+    "CONTENT": "Ta aplikacja korzysta z plików cookies i localStorage, aby zapewnić najwyższą jakość usług i zapewnić najlepsze zachowanie wyświetlania aplikacji. Więcej informacji na temat owych plików można znaleźć w naszej Polityce prywatności.",
+    "LINK_TEXT": "Polityka prywatności",
+    "ACCEPT_BUTTON": "Akceptuję"
+  }
+}

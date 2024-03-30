@@ -1,0 +1,30 @@
+{
+  "PAGES": {
+    "ERROR_404": {
+      "HEADING": "404",
+      "CONTENT": "We have a definite feeling that you might have gotten lost..."
+    }
+  },
+  "FOOTER": {
+    "COPYRIGHT": "All rights reserved / {found} - {now}",
+    "NOTICE": {
+      "TOP": "The service provides information about anime and links to video sharing platforms whose users have confirmed copyright ownership.",
+      "BOTTOM": "Any legal claims should be made directly to these platforms."
+    }
+  },
+  "NAVIGATION": {
+    "HOME": "Home",
+    "OPTIONS": {
+      "THEME": {
+        "DARK": "Switch to dark mode",
+        "LIGHT": "Switch to light mode"
+      }
+    }
+  },
+  "COMING_SOON": "Coming soon",
+  "PRIVACY_MESSAGE": {
+    "CONTENT": "This application uses cookies and localStorage files to provide the highest quality of service and ensure the best display behavior of the application. For more information about those files, please see our Privacy Policy.",
+    "LINK_TEXT": "Privacy Policy",
+    "ACCEPT_BUTTON": "I accept"
+  }
+}
